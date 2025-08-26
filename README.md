@@ -12,10 +12,10 @@ Reach me: [LinkedIn](https://www.linkedin.com/in/samyak-jain-5bb888252/) | [Emai
 
 ## Tech Stack
 **Languages:** Python, JavaScript, C++, Java, XML  
-**Frameworks & Libraries:** React, Node.js, Express.js, Flask  
-**Databases:** MySQL  
+**Frameworks & Libraries:** React, Node.js, Express.js, Flask, FastAPI, LangChain 
+**Databases:** MySQL, MongoDB 
 **Tools:** Git, GitHub, Postman, VS Code, Android Studio  
-
+**AI & ML::** LLMs (OpenAI, Hugging Face Transformers), NLP, Generative AI, Computer Vision  
 ---
 
 ## Featured Projects
