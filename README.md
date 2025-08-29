@@ -29,11 +29,16 @@ Reach me: [LinkedIn](https://www.linkedin.com/in/samyak-jain-5bb888252/) | [Emai
 
 ---
 
-## Currently Learning
+## Currently Exploring & Building
 - System Design for scalable applications  
 - Agentic AI for autonomous and adaptive decision-making  
 - Generative AI models for content creation and enhancement  
 - Open Source Contribution workflows  
+- **Healthcare AI Hub** – An explainable AI platform for patient pre-screening and diagnosis support:  
+   - **AI Symptom Checker** (NLP + XGBoost + SHAP for explainability)  
+   - **AI Report Analyzer** (OCR + LLMs for interpretation & summarization of lab reports)  
+   - **AI X-Ray Analyzer** (CNNs like CheXNet with Grad-CAM visual explainability)  
+   - **Fine-tuning experiments** with models like **BERT**, **T5**, **Whisper Small**, and **LLaMA 2** for domain-specific healthcare tasks
 
 ---
 
