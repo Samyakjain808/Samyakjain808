@@ -45,4 +45,4 @@ Reach me: [LinkedIn](https://www.linkedin.com/in/samyak-jain-5bb888252/) | [Emai
 ## Connect With Me
 LinkedIn: [https://www.linkedin.com/in/samyak-jain-5bb888252/](https://www.linkedin.com/in/samyak-jain-5bb888252/)  
 Email: [jainsamyak5678@gmail.com](mailto:jainsamyak5678@gmail.com)  
-Portfolio : [Samyak Jain](new-p-rho.vercel.app)
+Portfolio : ([new-p-rho.vercel.app](https://new-p-rho.vercel.app/))
