@@ -54,6 +54,16 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<h2 align="center">📜 Research & Publications</h2>
+
+> ### 📘 [Towards Face Deepfake Detection: A Review with Research Challenges and Future Direction](https://link.springer.com/chapter/10.1007/978-981-96-7526-5_35)
+> **Published in Springer Nature**
+> Investigated the rapid advancements in deep learning and computer vision technologies enabling highly realistic AI-generated content (deepfakes). Analyzed detection methodologies, ethical concerns, and future research directions to combat false media.
+> <br/>
+> ![Springer](https://img.shields.io/badge/Springer-0176AE?style=flat-square&logo=springer&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF9900?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <h2 align="center">🚀 Elite Projects & Architectures</h2>
 
 > ### 🏥 [Medverse](https://github.com/Samyakjain808/MEDVERSE-AI)
